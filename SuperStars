@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>The Superstars</title>
+</head>
+
+<h1>The Superstars</h1>
+
+<body>
+    
+    <h2>Eric Lindros</h2>
+
+    
+    <figure>
+        <img src="Lindros_90s.jpeg" alt ="" width="400" >
+        <figcaption><i>This...is...PHILADELPHIA!</i>
+            
+        </figcaption>
+
+
+
+    <p>
+        Eric Lindros, alias "The Next One", a playmaker, a team captain,
+        <br>
+        a genius with stickhandling, but also: a freaking monster!
+        <s></s>
+        <br>
+        
+    </p>
+
+  <br>
+
+
+    <h2>Sergei Fedorov</h2>
+
+
+<figure>
+    <img src="fedorov.jpeg" alt ="" width="300" >
+    <figcaption><i>Russian Nike master</i>
+        
+    </figcaption>
+    
+</figure>
+
+
+    <p>
+        The international man of mystery, one of the greatest on both sides of the rink, 
+            <br>
+            gracious style, perfect hair and three shiny Stanley Cup rings on his fingers.  
+        <s></s>
+        <br><br>
+        
+    </p>
+    <h2>Mario Lemiuex</h2>
+
+
+    <figure>
+        <img src="Mario-Lemieux.jpeg" alt ="" width="300" >
+        <figcaption><i>Gretzky who?</i>
+            
+        </figcaption>
+        
+   
+    
+    
+        <p>
+            Yes, he did that crazy 199 point-season back in the 80s but the man
+                <br>
+                won two cups in 91 and 92 AND defeated cancer. What did you do?  
+            <s></s>
+            <br><br>
+            
+        </p>
+
+      
+
+
+        <p>
+            <strong>Now who is your guy?</strong>
+             </p>
+
+            
+
+        <input type="radio" name="Player" id="Lindros" value="Lindros">
+        <label for= "Lindros">Eric Lindros</label>
+
+        <br>
+
+        <input type="radio" name="Player" id="Fedorov" value="Fedorov">
+        <label for= "Fedorov">Sergei Fedorov</label>
+
+        <br>
+
+        <input type="radio" name="Player" id="Lemieux" value="Lemieux">
+        <label for= "Lemieux">Marion Lemieux</label>
+
+        <br>
+        <br>
+
+
+
+    <a href="index.html">To start page</a>
+
+
+    
+    
+    
+</body>
+</html>
